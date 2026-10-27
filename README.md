@@ -1,1 +1,2 @@
 # campus-app
+Opiskelijoiden tapahtumasovellus.
